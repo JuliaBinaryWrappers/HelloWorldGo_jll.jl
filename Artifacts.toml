@@ -6,3 +6,12 @@ os = "macos"
     [[HelloWorldGo.download]]
     sha256 = "b067cfaca31d59dbb1e569b84cac68c8721bcd273d54682c921a50f46723398f"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.0+0/HelloWorldGo.v1.0.0.x86_64-apple-darwin14.tar.gz"
+[[HelloWorldGo]]
+arch = "x86_64"
+git-tree-sha1 = "e387754a8a850c09798bd3f8befdea8459250fea"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldGo.download]]
+    sha256 = "cae61bd4e470e9c9e955f20220f45bd63bc8b4f1a0191b4702320ac12d47b816"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.0+0/HelloWorldGo.v1.0.0.x86_64-linux-musl.tar.gz"
