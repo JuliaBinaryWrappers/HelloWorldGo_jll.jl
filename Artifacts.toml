@@ -25,3 +25,12 @@ os = "linux"
     [[HelloWorldGo.download]]
     sha256 = "5c540a60bbbda4f440e59635c0de5a13d409ef64488bdf39b7412edc94525d8a"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.0+0/HelloWorldGo.v1.0.0.arm-linux-gnueabihf.tar.gz"
+[[HelloWorldGo]]
+arch = "armv7l"
+git-tree-sha1 = "79670aff5e40b3bc9f609ccc93bcecc1c96c6936"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldGo.download]]
+    sha256 = "8c74ab0cca2015195e7f8d3f3be4b114e02900cc2d02d5cad1fa5a3d76fda4b3"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.0+0/HelloWorldGo.v1.0.0.arm-linux-musleabihf.tar.gz"
