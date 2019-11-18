@@ -61,3 +61,12 @@ os = "linux"
     [[HelloWorldGo.download]]
     sha256 = "e9fbdceda43f942901d6171390a27da2280928f0a9b9ec27f92e3ba26c60cbad"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.0+0/HelloWorldGo.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[HelloWorldGo]]
+arch = "x86_64"
+git-tree-sha1 = "2edb328ecaf072c456cc89d18b5aca3178874a83"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldGo.download]]
+    sha256 = "8119b39a4e30b8c2a4188bc147f7b274b815629b2e9004d22aecbd1ddd19ee6a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.0+0/HelloWorldGo.v1.0.0.x86_64-linux-gnu.tar.gz"
