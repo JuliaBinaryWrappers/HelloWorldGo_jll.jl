@@ -1,113 +1,113 @@
 [[HelloWorldGo]]
 arch = "aarch64"
-git-tree-sha1 = "fd83dee39abca45326ebccd6299aeda7b6422c60"
+git-tree-sha1 = "a5f8161ca1ab2e94fedd3578586fe06d7906177c"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "5982d1a354af8901552dd075c0f9755d4b73ff6a530fb97ba15ca46edbc2d4c6"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.aarch64-linux-musl.tar.gz"
+    sha256 = "9b66d6b02a370d0170a8c217a872cd1f3d53de267d4e63c22a40b49f04367f8a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.aarch64-linux-musl.tar.gz"
 [[HelloWorldGo]]
 arch = "i686"
-git-tree-sha1 = "526d0e2d9dd0bd930f0db40d4a38bf4b9df433e4"
+git-tree-sha1 = "ea8ea92ecd57aa602d254ca6c637309642202768"
 os = "windows"
 
     [[HelloWorldGo.download]]
-    sha256 = "c84ff28a7598c49a41490e4c6595e684813e683a518e9f83da997b43504ea346"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.i686-w64-mingw32.tar.gz"
+    sha256 = "5c96a327fc6f0dc71d533373bc6cc6719a1e477c72319b800f29abf1b1e7d812"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.i686-w64-mingw32.tar.gz"
 [[HelloWorldGo]]
 arch = "x86_64"
-git-tree-sha1 = "3de87770cb87a1186c77ab0f637f6452a1af0ead"
+git-tree-sha1 = "53e88bee931ba76075c8a2c4afc79a7a4ac16bb8"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "93a016f4ae3f2ff7d01fef163f48afd53a5264712e5dbb88f453b49a1bfde404"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.x86_64-linux-musl.tar.gz"
+    sha256 = "858fbbce4a051d06baa0a4528921bd689f2bcfcc632dd1086e53677010fbf458"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.x86_64-linux-musl.tar.gz"
 [[HelloWorldGo]]
 arch = "i686"
-git-tree-sha1 = "c0c689762b9d098b97e62e657d43c1763fe48e4f"
+git-tree-sha1 = "95be92025c80b9f843c6e867364d4f5dc97ca43e"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "bae01c841bd2d71f0550deb8c72d073b7001e3115f053a69225d126971bc3aa8"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.i686-linux-gnu.tar.gz"
+    sha256 = "c22f8525feaf488c37abd5c53c046871edee050eaffc8eadedd6168e09bbeb6c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.i686-linux-gnu.tar.gz"
 [[HelloWorldGo]]
 arch = "armv7l"
-git-tree-sha1 = "da0aca0894322fb6707b18156a355b332361286b"
+git-tree-sha1 = "049660263a87c742dcde64228b1653c4cdff67d1"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "9321c3b7852092186f72431246b2e792014ae177946fd81135680798f1961672"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "c17e83de772a02becfe74546e24754fb41e1130456da0bf07b0cac13595de7ce"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.armv7l-linux-gnueabihf.tar.gz"
 [[HelloWorldGo]]
 arch = "aarch64"
-git-tree-sha1 = "b9e1e4218ecb4f9a565c41582df648e0afd113e3"
+git-tree-sha1 = "1a0e6aa225671cde262e5d36a972b26df3b1e031"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "5600429801ec3a4d87700d9ea8eff4e452bbc6b3788b8f1466bc70ccc73fc711"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "833026bd21dc3c714f58ff2caba71c7ed234d72fde7705c06df3c89ca34a1fec"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.aarch64-linux-gnu.tar.gz"
 [[HelloWorldGo]]
 arch = "x86_64"
-git-tree-sha1 = "6929b1e0940a230f157e231aca5e98e02d351652"
+git-tree-sha1 = "73be07c66c7f426b0876942f7d53202ae945762c"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "5797f7f2b17c036528c9536799b32db846798667c37d4a8ffdf8b554da6e1ba4"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "516efc549a852f0cf7f82e2ac655d6db6a2a628ce4992265f19c76a9889eb360"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.x86_64-linux-gnu.tar.gz"
 [[HelloWorldGo]]
 arch = "powerpc64le"
-git-tree-sha1 = "5eae9e749e042d33a378582a68c6146a0a155588"
+git-tree-sha1 = "fbd916c27fb545b6b19c61702ae2682012934878"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "63d870f33a2287795808330bcebd45447feea501ea73b4d98db2c6d763bc053c"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e439d07e0bd5e8270583dbf285c282a40d89e3db2a362da3015c44c753ec8a83"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.powerpc64le-linux-gnu.tar.gz"
 [[HelloWorldGo]]
 arch = "x86_64"
-git-tree-sha1 = "38bcb06222899ad234fcad09b813b39c0d0a8d49"
+git-tree-sha1 = "bad5a07ab91c26c560e427fd04c886566b0e71cc"
 os = "macos"
 
     [[HelloWorldGo.download]]
-    sha256 = "af9d7e58d66242a4a964b97c52878ce696f5808a0952e5aa8567a6f22201951b"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.x86_64-apple-darwin14.tar.gz"
+    sha256 = "81f13725c0882a20b0e9be164d46970eedc75b1f7f574a344a4e29dbe14bb2cf"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.x86_64-apple-darwin14.tar.gz"
 [[HelloWorldGo]]
 arch = "x86_64"
-git-tree-sha1 = "ccde207e0757d5481103bf6fb2b1ca87904699ce"
+git-tree-sha1 = "4c735a9e5ac27d18b746cbc25bf09ec6e963abfe"
 os = "freebsd"
 
     [[HelloWorldGo.download]]
-    sha256 = "49183c93101755d27b2274577a541b87fb2c4af4af65a5cc8994ada4d67130af"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "2f1c7bcb1c84c0c86e9ad528d8e2ac5dd673bd763b2e7d3f9b9f6d616c2c5dbe"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.x86_64-unknown-freebsd11.1.tar.gz"
 [[HelloWorldGo]]
 arch = "i686"
-git-tree-sha1 = "4e40a4e1db452e6c4c7f3bfa88fc90237d46eb29"
+git-tree-sha1 = "16e9225f29a0cb54af3ba1325db121fe8a7f7876"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "1ffe98a93220015cddc4d9688eaa9d983f18fa3e6de723f76c485371175985ec"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.i686-linux-musl.tar.gz"
+    sha256 = "70c0e6324a5003baaca745581945998917baa5e80268e8b05c00ca57cb4215c2"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.i686-linux-musl.tar.gz"
 [[HelloWorldGo]]
 arch = "armv7l"
-git-tree-sha1 = "5b1e730759c966454e1176311f059334f877fd2d"
+git-tree-sha1 = "383c8c2f13b8a506a219e61966cfae021f50aa3e"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldGo.download]]
-    sha256 = "608eb442f10ec0773f017ab761a958f8a9331357504640eb61c54d45c04ab1d7"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "cd0b2b5cbfb1677e839cf0c59493a47d8d7c214de3f88c6cb9827d3abbb4bdde"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.armv7l-linux-musleabihf.tar.gz"
 [[HelloWorldGo]]
 arch = "x86_64"
-git-tree-sha1 = "8b53762c9e1a475f435be25f111d655011a08aa1"
+git-tree-sha1 = "4f2acd48b556d2675dfb688365f065b32b548a32"
 os = "windows"
 
     [[HelloWorldGo.download]]
-    sha256 = "8705990c8b19656ce2a36cfc82a29e2269bf508a2b706d593e8e7d6806449c2e"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.3+0/HelloWorldGo.v1.0.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d47a85ae86aaa47a7e8b37209a479f5d7859a8edce183cab6e006ca76b83f520"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldGo_jll.jl/releases/download/HelloWorldGo-v1.0.4+0/HelloWorldGo.v1.0.4.x86_64-w64-mingw32.tar.gz"
